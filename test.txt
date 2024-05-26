@@ -1,3 +1,1 @@
-Game 1;https://example.com/game1.zip;C:/Games/Game1/game1.exe
-Game 2;https://example.com/game2.zip;C:/Games/Game2/game2.exe
-Game 3;https://example.com/game3.zip;C:/Games/Game3/game3.exe
+test;https://itchio-mirror.cb031a832f44726753d6267436f3b414.r2.cloudflarestorage.com;C:/Games/Game1/game1.zip
