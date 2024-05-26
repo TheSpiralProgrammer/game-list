@@ -1,1 +1,1 @@
-test;https://itchio-mirror.cb031a832f44726753d6267436f3b414.r2.cloudflarestorage.com;C:/Games/Game1/game1.zip
+https://itchio-mirror.cb031a832f44726753d6267436f3b414.r2.cloudflarestorage.com, test
